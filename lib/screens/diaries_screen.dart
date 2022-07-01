@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:selftherapy_diaries/widgets/diary_item.dart';
 import '../dummy_data.dart';
 
-//test
+//test nataliepavelko
 
 class DiariesScreen extends StatelessWidget {
   @override
