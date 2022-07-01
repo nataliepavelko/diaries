@@ -9,7 +9,6 @@ class DiariesScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        //backgroundColor: DiariesConfig.themeColor,
         actions: [
           DropdownButton(
             icon: Icon(
