@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416443385533",
+    "project_id": "self-therapy-diaries",
+    "storage_bucket": "self-therapy-diaries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416443385533:android:ec2215e89ec7955ba099d4",
+        "android_client_info": {
+          "package_name": "com.example.selftherapy_diaries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416443385533-kii518m60t7rlsvcr2oqpectoltpg9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDCy-LRuqr8WSUBxmh7z2tmU_QYntCi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416443385533-kii518m60t7rlsvcr2oqpectoltpg9j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
